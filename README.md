@@ -1,5 +1,5 @@
-# p2-altesc250-analyser
-Personal Project 2 - The Analyzer 250
+# p1-altesc250-analyser
+Personal Project 1 - The Analyzer 250
 
 The Analyzer 250 is a tool used to help make analysis on the results of the ALTESC250 spreadsheet easier.
 
